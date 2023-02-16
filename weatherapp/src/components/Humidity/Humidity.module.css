@@ -1,0 +1,29 @@
+.Humidity{
+    height: 40%;
+    width: 35%;
+    background-color: #1E213A;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.humHead{
+    height: 10%;
+    color: #E7E7EB;
+    font-size: 2vh;
+    font-weight: 500;
+}
+.humMain{
+    height: 50%;
+    color: #E7E7EB;
+    width: 60%;
+    font-size: 9vh;
+    font-weight: 700;
+    text-align: center;
+}
+.humSpan{
+    font-size: 4vh;
+    font-weight: 500;
+    margin-left: 0;
+    color: #E7E7EB;
+}

@@ -1,0 +1,31 @@
+.AirPressure{
+    height: 30%;
+    width: 35%;
+    background-color: #1E213A;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.APHead{
+    height: 10%;
+    color: #E7E7EB;
+    font-size: 2vh;
+    font-weight: 500;
+}
+.APMain{
+    height: 50%;
+    color: #E7E7EB;
+    width: 100%;
+    font-size: 9vh;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 1vw;
+}
+.APSpan{
+    font-size: 4vh;
+    font-weight: 500;
+    margin-left: 0;
+    margin: 1vh;
+    color: #E7E7EB;
+}
